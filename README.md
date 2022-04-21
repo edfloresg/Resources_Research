@@ -3,4 +3,4 @@
 ## Instalación de herramientas
 ### Latex y Kile
 
- ´ sudo apt install kile ´
+ 'sudo apt install kile'
