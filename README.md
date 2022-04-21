@@ -10,3 +10,10 @@
 ## Comandos LaTex
 
 ` @ -> \makeatletter `
+
+Símbolos reservados en LaTex
+
+` _ -> \_
+
+
+`
