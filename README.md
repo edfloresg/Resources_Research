@@ -11,9 +11,6 @@
 
 ` @ -> \makeatletter `
 
-Símbolos reservados en LaTex
+Símbolos reservados en LaTex, para que se visualicen en el documento hay que poner el símbolo \ antes.
 
-` _ -> \_
-
-
-`
+` _ `
